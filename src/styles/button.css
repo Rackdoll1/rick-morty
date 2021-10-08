@@ -1,0 +1,11 @@
+.button-img {
+  width: 50px;
+  border-radius: 25%;
+  filter: drop-shadow(0 0 3px rgb(91, 204, 224));
+
+  margin:  0 auto;
+}
+
+.button-img:hover {
+  filter: drop-shadow(0 0 3px rgb(233, 26, 200));
+}
